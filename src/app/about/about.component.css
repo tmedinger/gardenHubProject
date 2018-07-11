@@ -1,9 +1,10 @@
 body {
-    background-color: rgba(1, 139, 18);
+    padding-top: 5px;
+    background-color: rgb(1, 139, 18);
 }
 
 #aboutHeading {
-    text-align: center;
+    color: rgb(173, 178, 1)
 }
 
 #aboutImage {
