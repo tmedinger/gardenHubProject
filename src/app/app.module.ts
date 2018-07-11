@@ -11,7 +11,7 @@ import { AboutComponent } from './about/about.component';
     AppComponent,
     HomeComponent,
     ProductsComponent,
-    AboutComponent
+    AboutComponent,
   ],
   imports: [
     BrowserModule
