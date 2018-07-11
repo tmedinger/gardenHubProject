@@ -1,0 +1,17 @@
+h1,h3{
+  text-align: center;
+}
+
+div{
+  background-color: rgb(1, 139, 18);
+  padding: 10px;
+  
+}
+#image{
+    display: block;
+    margin: 0 auto;
+  }
+  p{
+    text-indent:2%
+  }
+  
