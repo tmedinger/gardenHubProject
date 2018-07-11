@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+.pCard {
+    background-color: #6BA601;
+    border: 1px solid black;
+    width: 25%;
+}
+
+img {
+    background-image: contain;
+}
+
+.wrapper {
+    background-color: #018B12;
+}
+
+.products {
+    display: inline-block;
+    padding: 1em;
+}
+
+button {
+    background-color: #ADB201;
+}
