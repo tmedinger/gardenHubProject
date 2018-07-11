@@ -1,0 +1,26 @@
+h1,h3{
+  text-align: center;
+}
+
+div{
+  background-color: rgb(1, 139, 18);
+  padding: 10px;
+  
+}
+/* logo */
+#image{
+    display: block;
+    margin: 0 auto;
+  }
+  p{
+    text-indent:2%
+  }
+/* footer */
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 98.6%;
+  background-color: #333;
+  color: white;
+  text-align: center;
+}
