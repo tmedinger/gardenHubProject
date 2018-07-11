@@ -1,3 +1,6 @@
+body {
+    background-color: rgba(1, 139, 18);
+}
 
 #aboutHeading {
     text-align: center;
@@ -6,6 +9,7 @@
 #aboutImage {
     display: block;
     margin: 0 auto;
+    border-radius: 5%;
 }
 
 .aboutContainer {
