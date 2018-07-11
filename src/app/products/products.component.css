@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+}
+
+.pCard {
+    background-color: #6BA601;
+    padding: 1em;
+    border: 1em solid #018B12;
+    position: relative;
+}
+
+img {
+    width: 75%;
+    display: block;
+    margin: 0 auto;
+}
+
+.wrapper {
+    background-color: #018B12;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+button {
+    background-color: #ADB201;
+    border: none;
+    border-radius: 15px;
+    padding: 15px 32px;
+    text-align: center;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.price {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-decoration-line: underline;
+}
+
+button:hover {
+    background-color: rgb(229, 236, 0);
+    cursor: pointer;
+}
